@@ -1,0 +1,3 @@
+/home/nanachanuwu/CODE_LEARN_CODE_BLOCK/C++_TEST/operating_system_dropbox/build/CMakeFiles/executable.dir
+/home/nanachanuwu/CODE_LEARN_CODE_BLOCK/C++_TEST/operating_system_dropbox/build/CMakeFiles/edit_cache.dir
+/home/nanachanuwu/CODE_LEARN_CODE_BLOCK/C++_TEST/operating_system_dropbox/build/CMakeFiles/rebuild_cache.dir
